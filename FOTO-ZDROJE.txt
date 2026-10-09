@@ -32,5 +32,5 @@ terenni-schodiste.webp | https://www.pexels.com/photo/33870733/
 terenni-upravy.webp | https://www.pexels.com/photo/16531759/
 upravy-pozemku.webp | https://www.pexels.com/photo/36073761/
 vykop-pripojky.webp | https://www.pexels.com/photo/36552879/
-vykop-site.webp | https://www.pexels.com/photo/36657012/
+vykop-site.webp | Výkop pro inženýrské sítě | https://www.pexels.com/photo/37627672/ | aktualizováno
 zpevneny-svah.webp | https://www.pexels.com/photo/37393681/
